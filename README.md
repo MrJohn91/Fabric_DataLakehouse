@@ -51,7 +51,7 @@ The architecture leverages the **Lakehouse Pattern** in Microsoft Fabric, consis
 ---
 
 ## **Technologies Used**
-- **Microsoft Fabric**: Pipeline line development, Lakehouse and analytics tools.
+- **Microsoft Fabric**: Pipeline development, Lakehouse and analytics tools.
 - **Azure Data Lake Storage (ADLS)**: Centralized data storage.
 - **PySpark**: Data transformation and processing.
 - **Delta Lake**: ACID transactions for consistent data processing.
