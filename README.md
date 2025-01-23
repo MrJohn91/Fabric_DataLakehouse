@@ -105,11 +105,6 @@ The reports include:
 2. Easy-to-read visualizations for quick analysis.
 3. Data sourced directly from the `gold_daily_sales` and `gold_category_sales` tables.
 
-Use these reports to:
-- Identify high-performing product categories.
-- Monitor daily sales trends.
-- Optimize inventory and marketing strategies.
-
 ---
 
 ## **Achievements**
