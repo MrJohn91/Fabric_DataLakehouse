@@ -1,5 +1,3 @@
-# Fabric_DataLakehouse
-
 # **Fabric Data Lakehouse**
 
 ![Architecture Diagram](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Architecture%20Diagram.png)
