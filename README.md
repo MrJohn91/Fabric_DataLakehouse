@@ -47,10 +47,7 @@ The architecture leverages the **Lakehouse Pattern** in Microsoft Fabric, consis
 - **Bronze Layer**: Raw data ingestion.
 - **Silver Layer**: Cleaned, normalized, and transformed data.
 - **Gold Layer**: Aggregated, business-ready insights for reporting.
-
-Refer to the architecture diagram for more details:  
-![Architecture Diagram](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Architecture%20Diagram.png)
-
+  
 ---
 
 ## **Technologies Used**
