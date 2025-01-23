@@ -87,7 +87,7 @@ Visualize category-total sales using the aggregated `gold_category_sales` table.
 - **Sales Report**:  
   ![Daily Sales Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Report.png)
 
-- **Category Sales Report**:  
+- **Product_Category Sales Report**:  
   ![Category Sales Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Sales%20Report.png)
 
 Reports include:
