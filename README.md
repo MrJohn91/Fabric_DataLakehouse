@@ -84,7 +84,12 @@ The architecture leverages the **Lakehouse Pattern** in Microsoft Fabric, consis
 Visualize category-total sales using the aggregated `gold_category_sales` table.  
 **Example Output**:  
 ![Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Report.png)
-![Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Sales%20/Report.png)
+
+![Category Sales Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Sales%20/Report.png)
+
+The report includes:
+
+The report includes:
 
 ---
 
