@@ -78,14 +78,37 @@ The architecture leverages the **Lakehouse Pattern** in Microsoft Fabric, consis
   - `gold_category_sales`: Category-wise sales summaries.
 
 ---
-
 ## **Key Analytical Views**
+
 ### **Category-Sales Reporting**
 Visualize category-total sales using the aggregated `gold_category_sales` table.  
-**Example Output**:  
-![Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Report.png)
+**Example Output**:
 
-The report includes:
+- **Sales Report**:  
+  ![Daily Sales Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Report.png)
+
+- **Category Sales Report**:  
+  ![Category Sales Report](https://github.com/MrJohn91/Fabric_DataLakehouse/blob/main/Data%26Scripts/Sales%20Report.png)
+
+Reports include:
+1. Total sales per product category and per day.
+2. Easy-to-read visualizations for quick analysis.
+3. Data sourced directly from the `gold_daily_sales` and `gold_category_sales` tables.
+
+Use these reports to:
+- Identify high-performing product categories.
+- Monitor daily sales trends.
+- Optimize inventory and marketing strategies.
+
+The reports include:
+1. Total sales per product category and per day.
+2. Easy-to-read visualizations for quick analysis.
+3. Data sourced directly from the `gold_daily_sales` and `gold_category_sales` tables.
+
+Use these reports to:
+- Identify high-performing product categories.
+- Monitor daily sales trends.
+- Optimize inventory and marketing strategies.
 
 ---
 
@@ -97,6 +120,16 @@ The report includes:
   - **Category-Level Performance Insights**.
 - Improved **inventory forecasting accuracy by 25%**.
 - Enhanced customer personalization, boosting repeat purchases by **15%**.
+
+---
+
+## **Semantic Model**
+To enable simplified reporting and analysis, a **Semantic Model** was created using Microsoft Fabric. The Semantic Model abstracts the complexity of the Gold Layer by providing:
+- **Predefined Metrics**:
+  - **Total Daily Sales** from the `gold_daily_sales` table.
+  - **Category Sales** from the `gold_category_sales` table.
+- **Relationships**: Establishes relationships between the Gold Layer tables for advanced analysis.
+- **Seamless Power BI Integration**: Business users can create intuitive dashboards without needing deep technical knowledge.
 
 ---
 
