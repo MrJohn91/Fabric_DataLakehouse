@@ -19,7 +19,7 @@ To create a scalable, efficient, and business-focused **Data Lakehouse Architect
 
 ---
 
-## **Problems We Were Dealing With**
+## **Problems**
 1. **Data Silos**: Data spread across disparate systems and formats, making integration challenging.
 2. **Performance Issues**: Slow data processing (72 hours for full processing).
 3. **Data Quality**: Inconsistent formats, missing records, and invalid values.
