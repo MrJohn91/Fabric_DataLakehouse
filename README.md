@@ -5,7 +5,7 @@
 ---
 
 ## **Overview**
-This project focuses on building a **Data Lakehouse Architecture** for **Binaryville**, a multinational retailer. The goal is to consolidate and analyze large volumes of data generated daily across their operations, enabling efficient decision-making through business-ready insights.
+This project focuses on building a **Data Lakehouse Architecture** for a multinational retailer. The goal is to consolidate and analyze large volumes of data generated daily across their operations, enabling efficient decision-making through business-ready insights.
 
 ---
 
